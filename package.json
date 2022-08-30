@@ -1,0 +1,28 @@
+﻿{
+    "name": "com.neoneper.gmb_database",
+    "version": "0.0.1",
+    "displayName": "GMB-Database",
+    "description": "Game Manager BackEnd - Database Core",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/neoneper/GMB-Database/wiki",
+    "changelogUrl": "https://github.com/neoneper/GMB-Database",
+    "licensesUrl": "https://github.com/neoneper/GMB-Database",
+    "category": "tools",
+    "dependencies": {},
+    "keywords": [
+        "GMB",
+        "Master",
+        "Game",
+        "Manager",
+        "BackEnd",
+        "Database"
+    ],
+    "author": {
+        "name": "Julio Cesar Pereira",
+        "email": "julio.doublehitgames@gmail.com",
+        "url": "https://github.com/neoneper"
+    }
+
+
+}

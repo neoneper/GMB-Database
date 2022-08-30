@@ -1,0 +1,16 @@
+{
+    "name": "GMBDatabase",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ac17bf77b46184fc1b51c0bad103e671"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
